@@ -1,3 +1,6 @@
+<img width="1536" height="827" alt="Screenshot 2026-05-15 222420" src="https://github.com/user-attachments/assets/47fbdb07-4529-414a-85e7-532baf12a243" />
+<img width="1533" height="832" alt="Screenshot 2026-05-15 231406" src="https://github.com/user-attachments/assets/ce940863-7a3e-4b8c-86a5-a93f8a547991" />
+<img width="1528" height="823" alt="Screenshot 2026-05-15 232055" src="https://github.com/user-attachments/assets/de8be906-3eec-4a3b-8e35-7a8d5637b0e9" />
 # cloudverse-devops-platform
 created by sachin patil
 <img width="1536" height="1024" alt="ChatGPT Image May 16, 2026, 11_11_35 PM" src="https://github.com/user-attachments/assets/0dd84af8-e7f9-4b12-a04a-bff2a3350a3f" />
